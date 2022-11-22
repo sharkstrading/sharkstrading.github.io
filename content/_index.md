@@ -1,1 +1,1 @@
-# Index
+!["sharks-logo-white-trans.png"]
