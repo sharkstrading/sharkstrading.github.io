@@ -7,8 +7,8 @@
 
 # The theme colour scheme to use. Valid values are congo (default), avocado, ocean, fire and slate.
 colorScheme = "slate"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = false
@@ -24,7 +24,7 @@ mainSections = ["samples"]
 [footer]
   showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = false
 
 [homepage]
