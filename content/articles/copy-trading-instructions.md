@@ -26,7 +26,7 @@ After the treat, quickly [get a working account so everyone can forget about you
 
 Well done! After logging in to your Super Mega Ultra Pro Full Member Account, go to our strategy page
 
-https://ct.spotware.com/copy/strategy/57401
+https://ct.spotware.com/copy/strategy/64166?u=sharks
 
 Double check the Strategy author is `sharks` (no more, no less)
 
