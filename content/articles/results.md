@@ -1,8 +1,8 @@
-# Results
+# Historical Yearly Results
 
 | Year  | ROI | Profit Factor | Percent Profitable  | Max Balance Drawdown |
 |-------|-----|---------------|---------------------|----------------------|
-| 2023* | 18% | Not available | Not available       | Not available        |
+| 2023* | N/A | Not available | Not available       | Not available        |
  
 \* Note that 2023 was only active a little over 1 out of 12 months
 
