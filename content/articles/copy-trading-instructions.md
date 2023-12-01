@@ -40,4 +40,4 @@ Allocate the desired amount of funds. Then hit `Start Copying`.
 
 ![Post Start](/img/post-start.png)
 
-After starting the strategy you will notice that funds were deducted from your account and placed in a segregated account, just for this strategy. This segregated account will be active for as long as you copy the strategy. Also it will track the ROI on the right side. 
+After starting the strategy you will notice that funds were deducted from your account and placed in a segregated account, just for this strategy. This segregated account will be active for as long as you copy the strategy. Also, it will track the ROI on the right side. 
