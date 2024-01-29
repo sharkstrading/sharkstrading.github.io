@@ -2,13 +2,9 @@
 
 ## I don't have a trading account yet
 
-If you want you can use the same broker that we use so that there are no headaches: [Get me a working account, on the double!](https://www.icmarkets.com/global/en/trading-accounts/ctrader-raw/). 
+[Choose your broker on this page (look for `cTrader Copy Available`)](https://ctrader.com/featured-brokers/)
 
-As with all things on the Forex market, there are many options and not all are good. 
-
-The site may try to nudge you towards toward the EU jurisdiction regulated in Cyprus. Decline the offer, and when signing up check that the domain name ends in `.com` and not in `.eu`. 
-
-[You can also choose your own broker on this page (look for `cTrader Copy Available`)](https://ctrader.com/featured-brokers/)
+Protip: check in advance with the broker if they support cTrader Copy in your jurisdiction. For example, IC Markets supports cTrader Copy only in the Seychelles jurisdiction, but not in the EU.
 
 ## I (already) have a cTrader account
 
@@ -18,11 +14,9 @@ To check this, log in to https://ct.spotware.com and on the left click Copy. You
 
 ![Full Member Broker image](/img/fm.png)
 
-If your account doesn't have the `FM` badge it's either a Demo account or you unfortunately created a "Noob Member" account and have to treat your colleagues to cake 🍰
+If your account doesn't have the `FM` badge it's either a Demo account or you unfortunately created a non-Full Member account and have to treat your colleagues to cake 🍰
 
-After the treat, quickly [get a working account so everyone can forget about your embarassment](https://www.icmarkets.com/global/en/trading-accounts/ctrader-raw/)
-
-## I have a Super Mega Ultra Pro Full Member Account
+## I have a Full Member Account
 
 Well done! After logging in to your Super Mega Ultra Pro Full Member Account, go to our strategy page
 
